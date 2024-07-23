@@ -2,6 +2,9 @@ Project was to build a simple text editor that runs in the browser. It is a sing
 
 https://github.com/MikeKruce/PWA-Text-Editor
 
+https://mikekruce.github.io/PWA-Text-Editor/
+
+
 
 
 ![Screenshot 2024-07-22 194228](https://github.com/user-attachments/assets/50bd21d0-73eb-40d0-983c-fe24410cb92e)
