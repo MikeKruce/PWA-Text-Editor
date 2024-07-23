@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Just Another Text Editor",
   "main": "server/server.js",
-  "homepage": "http://<your-github-username>.github.io/<your-repo-name>",
+  "homepage": "https://mikekruce.github.io/PWA-Text-Editor/",
   "scripts": {
     "dev": "webpack serve --mode development",
     "build": "webpack --mode production",
